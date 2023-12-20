@@ -1,4 +1,4 @@
-<h1 align="center">Construção de uma API-Rest em Java+ + Docker</h1>
+<h1 align="center">Construção de uma API-Rest em Java + Docker</h1>
 
 <p align="center">
 API desenolvida em Java para o aprendizado e prática no uso de ferramentas de mercado no curso da Rockeseat com Dani Leão. Seu funcionamento consiste em: (Criar, Ler, Atualizar e deletar) o famoso CRUD de um TodoList.
